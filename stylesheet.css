@@ -4,13 +4,13 @@
 
 .bg-grad-skyblue{
   background: rgb(255,255,255);
-  background: linear-gradient(0deg, rgb(255, 255, 255) 0%, #9aefe6 10%, #9aefe6 90%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(0deg, rgb(255, 255, 255) 0%, #4DE2D3 10%, #4DE2D3 90%, rgba(255, 255, 255, 0) 100%);
   color: #2e2e2e;
 }
 
 .bg-grad-blue{
   background: rgb(255,255,255);
-  background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, #e6ffff 10%, #e6ffff 90%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, #b3fff6 10%, #b3fff6 90%, rgba(255, 255, 255, 0) 100%);
   color: #000000;
 }
 
